@@ -6,3 +6,4 @@ This is an Assignment where in I have built an interface for admins to see and d
  * Clone the repository
  * Install the dependencies listed in package.json using ```npm install```
  * Run the app using ```npm start```
+### Deployed Site: https://graceful-alpaca.netlify.app
