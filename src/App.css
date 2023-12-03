@@ -1,0 +1,28 @@
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: linear-gradient(
+    41deg,
+    #ffd5d2 0.83%,
+    #fff2f1 14.56%,
+    #ffe1df 23.58%,
+    #fff 34.09%,
+    #fff2f1 70.46%,
+    #fff2f1 80.56%,
+    rgba(248, 112, 96, 0.1) 86.25%
+  );
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  border-radius: 15px;
+  background: rgba(81, 81, 127, 0.6);
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: rgba(81, 81, 127, 0.8);
+}
